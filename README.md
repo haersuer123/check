@@ -152,4 +152,4 @@ README_dos.txt for version 7.4 of Vim: Vi IMproved.
  :help dos 
  :help msdos 
  :help win32 
- HASH:EC8A42B380C04901A672094151A40202U1UZzTlRrdRMakl6Tnk0NU56bzBORE09
+ 
